@@ -2,16 +2,16 @@
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
   if (license === 'MIT') {
-    return `[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]`
+    return `![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)`
   }
   else if (license === `APACHE 2.0`) {
-    return `[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)]`
+    return `![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)`
   }
   else if (license === `Boost`) {
-    return `[![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)]`
+    return `![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)`
   }
   else if (license === `BSD 3`) {
-    return `[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)]`
+    return `![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)`
   } else {
     return ''
   };

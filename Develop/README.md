@@ -33,7 +33,7 @@
   
     This project is licensed under: MIT
     https://opensource.org/licenses/MIT
-    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+    ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
     
 
   # Contriubtion Information
