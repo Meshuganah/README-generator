@@ -26,7 +26,7 @@ const questions = [
             type: 'list',
             name: 'license',
             message: 'Which license do you need to include?',
-            choices: ['MIT', 'APACHE', 'GPL', 'BSD', 'None'],
+            choices: ['MIT', 'APACHE 2.0', 'Boost', 'BSD 3', 'None'],
         },
         {
             type: 'input',
